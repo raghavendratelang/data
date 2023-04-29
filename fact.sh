@@ -1,6 +1,4 @@
 #!/bin/bash
-
-set -x
 num=$1
 fact=1
 while [ $num -gt 0 ]
